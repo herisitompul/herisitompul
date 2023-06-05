@@ -1,4 +1,4 @@
-# Hi there, I'm Mickael Sitompul - aka [kael](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Mickael Sitompul - aka [kael](https://www.youtube.com/channel/UC-r8UwZbrJ7A73hRxFMFkpg) 👋
 ## About me:
 - 📖 I’m currently studyng at [IT DEL](https://www.del.ac.id/)
 - 🌱 I’m currently learning C Progamming

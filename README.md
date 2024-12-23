@@ -1,7 +1,7 @@
 # Hi there, I'm Mickael Sitompul - aka [kael](https://www.youtube.com/channel/UC-r8UwZbrJ7A73hRxFMFkpg) 👋
 ## About me:
 - 📖 I’m currently studyng at [IT DEL](https://www.del.ac.id/)
-- 🌱 I’m currently learning C Progamming
+- 🌱 I’m currently learning C Progamming and Laravel Web Development
 - 💬 Ask me about anything
 - 📫 How to reach me: mickaelsitompul@gmail.com
 
@@ -13,6 +13,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="VisualStudioCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="https://laravel.com" width="30px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" style="padding-right:10px;" />][webdev]
 <br />
 
 ---

@@ -1,26 +1,29 @@
-# Hi there, I'm Mickael Sitompul - aka [kael](https://www.youtube.com/channel/UC-r8UwZbrJ7A73hRxFMFkpg) 👋
-## About me:
-- 📖 I’m currently studyng at [IT DEL](https://www.del.ac.id/)
-- 🌱 I’m currently learning C Progamming and Laravel Web Development
-- 💬 Ask me about anything
-- 📫 How to reach me: mickaelsitompul@gmail.com
+# Hey there, I'm Mickael Sitompul (aka [kael](https://www.youtube.com/channel/UC-r8UwZbrJ7A73hRxFMFkpg)) 👋
+
+## About Me:
+- 📚 **Currently studying** at [Institut Teknologi Del (IT DEL)](https://www.del.ac.id/) 
+- 🌱 **Learning** C Programming and Laravel Web Development
+- 💬 **Feel free to ask me** about anything related to tech, coding, or development
+- 📫 **Contact me** at: [mickaelsitompul@gmail.com](mailto:mickaelsitompul@gmail.com)
 
 ## Education:
 
-#### 1. [Institut Tekonologi Del](https://www.del.ac.id/) | [Information System](https://www.del.ac.id/?page_id=3534) | Laguboti `2022`
- #### 2. [SMA N 1 Pahae Julu](https://infosekolah.net/info/sekolah/SMAN-1-PAHAE-JULU/Kecamatan-Pahae-Julu/Kabupaten%20Tapanuli%20Utara/Provinsi-Sumatera-Utara/indonesia/20e80f6861ed4d8c7c0f2556d242ce53b1baedf7) | MIPA | Pahae Julu `2019-2022`
+### 1. [Institut Teknologi Del (IT DEL)](https://www.del.ac.id/) | **Information Systems** | Laguboti (2022-Present)
+   - Focused on building skills in technology, coding, and system design.
 
-### Languages and Tools:
+## Skills & Tools:
+- 🔧 **Programming Languages**: C Programming, PHP
+- ⚙️ **Tools & Frameworks**:
+  - [Visual Studio Code](https://code.visualstudio.com/) 
+  - [Laravel](https://laravel.com) for web development
 
-[<img align="left" alt="VisualStudioCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="https://laravel.com" width="30px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" style="padding-right:10px;" />][webdev]
+<img align="left" alt="VisualStudioCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="30px" src="https://github.com/user-attachments/assets/15460afe-3f46-4bf9-a42d-b2cc36e1408a" style="padding-right:10px;" />
+
 <br />
 
+## Let's Connect:
+- 📸 [Instagram](https://instagram.com/mickaelsitompul) 
+- 🌐 [GitHub](https://github.com/herisitompul/herisitompul)
+
 ---
-### Connect with me:
-[![website](./img/instagram-light.svg)](https://instagram.com/mickaelsitompul#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mickaelsitompul#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/herisitompul/herisitompul
